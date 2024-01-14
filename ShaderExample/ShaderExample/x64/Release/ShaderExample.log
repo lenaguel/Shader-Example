@@ -1,0 +1,18 @@
+﻿  main.cpp
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewEnableVertexAttribArray".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewBindVertexArray".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewUseProgram".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewVertexAttribPointer".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewCompileShader".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewCreateShader".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewBindBuffer".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewCreateProgram".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewValidateProgram".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewBufferData".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewAttachShader".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewShaderSource".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewGenVertexArrays".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewGenBuffers".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewDeleteShader".
+main.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__glewLinkProgram".
+C:\Users\lenag\OneDrive - thu.de\Dokumente\Studium\3. Semester\Computer Graphics\3D Projekt\ShaderExample\x64\Release\ShaderExample.exe : fatal error LNK1120: 16 nicht aufgelöste Externe
